@@ -1,2 +1,2 @@
 # New_IT_Project
-This project is for the New IT Client called Sammy
+This is a Project Created for the Client Samson
